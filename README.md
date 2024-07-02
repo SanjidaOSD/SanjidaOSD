@@ -1,6 +1,6 @@
 ## Hi there 👋, This is Sanjida!
 #### A FrontEnd Developer 
-![Web Developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://i.ibb.co/hKpWnKH/Banner.png))
+![Web Developer](https://i.ibb.co/hKpWnKH/Banner.png)
 
 👋 Hey there! I'm [Your Name], a curious and enthusiastic junior front-end developer. My journey in web development started with a fascination for creating interactive and visually stunning web experiences. Every day, I strive to learn something new and push the boundaries of what I can build.
 
