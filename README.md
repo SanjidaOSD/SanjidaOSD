@@ -4,13 +4,12 @@
 
 👋 Hey there! I'm [Your Name], a curious and enthusiastic junior front-end developer. My journey in web development started with a fascination for creating interactive and visually stunning web experiences. Every day, I strive to learn something new and push the boundaries of what I can build.
 
-Skills: REACT / JS /NODE.JS/ HTML / CSS
+My Skills:
 <P>
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
      <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</ br>
    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   
 
