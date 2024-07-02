@@ -5,7 +5,9 @@
 👋 Hey there! I'm [Your Name], a curious and enthusiastic junior front-end developer. My journey in web development started with a fascination for creating interactive and visually stunning web experiences. Every day, I strive to learn something new and push the boundaries of what I can build.
 
 Skills: REACT / JS /NODE.JS/ HTML / CSS
-
+<P>
+   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+</P>
 - 🔭 I’m currently working on this page. 
 
 
