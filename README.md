@@ -1,7 +1,7 @@
 
 ![Web Developer](https://i.ibb.co/hKpWnKH/Banner.png)
 
-👋 Hey there! I'm [Your Name], a curious and enthusiastic junior front-end developer. My journey in web development started with a fascination for creating interactive and visually stunning web experiences. Every day, I strive to learn something new and push the boundaries of what I can build.
+👋 Hey there! I'm Sanjida, a curious and enthusiastic junior front-end developer. My journey in web development started with a fascination for creating interactive and visually stunning web experiences. Every day, I strive to learn something new and push the boundaries of what I can build.
 
 My Skills:
 <P>
